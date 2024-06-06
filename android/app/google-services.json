@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435930209851",
+    "project_id": "pushnotitutorial-2f34c",
+    "storage_bucket": "pushnotitutorial-2f34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435930209851:android:d4249ebdce5a509820061e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArRVtG3sW3zvx3fjUK8pz2hpPexm7PJrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
